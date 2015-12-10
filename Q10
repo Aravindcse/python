@@ -1,0 +1,5 @@
+basic=int(input("Enter a Salary: "))
+hra = basic * 0.4
+print hra
+
+
